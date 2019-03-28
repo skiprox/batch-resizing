@@ -1,6 +1,6 @@
 {
   "name": "batch-resizing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resizes every image in a directory to be the same size",
   "main": "batch-resize.js",
   "scripts": {
