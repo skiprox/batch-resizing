@@ -1,5 +1,5 @@
-# Normalize images for ML
+# Batch Resizing
 
-> Make all images the same size so that you can use them as starter set for GAN or whatnot
+> Resizes every image in a directory to be the same size
 
-That's all this does :)
+You might want this if you're trying to clean images in order to do some machine learning stuff on them, idk.
