@@ -14,7 +14,12 @@
   "bugs": {
     "url": "https://github.com/skiprox/batch-resizing/issues"
   },
-  "keywords": ["resize", "batch resize", "resizing", "node"],
+  "keywords": [
+    "resize",
+    "batch resize",
+    "resizing",
+    "node"
+  ],
   "author": "skiprox",
   "license": "MIT",
   "dependencies": {
